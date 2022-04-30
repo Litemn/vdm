@@ -4,7 +4,7 @@
 
 package com.malinskiy.vdm
 
-interface DeviceProvider {
+interface VirtualDeviceManager {
     fun browse()
     fun read()
     fun edit()

@@ -4,7 +4,8 @@
 
 package com.malinskiy.vdm
 
-class AndroidDeviceProvider : DeviceProvider {
+class AndroidVirtualDeviceManager : VirtualDeviceManager {
+
     override fun browse() {
         TODO("Not yet implemented")
     }
